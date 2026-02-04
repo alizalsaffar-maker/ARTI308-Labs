@@ -15,3 +15,13 @@ GitHub is a website where projects can be stored online and shared with others.
 - Created a new repository  
 - Added and edited a README file  
 - Committed and pushed the changes
+
+---
+
+## Lab 2 – Dataset and Problem Description
+
+### Dataset
+The dataset used in this lab is a housing dataset that contains information about houses such as size, number of rooms, and location.
+
+### Machine Learning Problem
+This is a regression problem. The goal is to predict the house price based on the given features in the dataset.
